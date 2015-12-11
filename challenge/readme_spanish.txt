@@ -1,0 +1,2 @@
+Acá hay 5 archivos. Todos ellos fueron encriptados de un único archivo usando la misma llave 5 veces.
+La idea es que puedan al menos desencriptar uno de ellos y, en el mejor de los casos, obtener la llave que los generó.

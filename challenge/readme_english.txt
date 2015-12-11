@@ -1,0 +1,2 @@
+Here are 5 files. All of them were encrypted from a single file using the same key 5 times.
+The main idea here is that you can decrypt at least one of them and, in the best of cases, get the key which generated them.
